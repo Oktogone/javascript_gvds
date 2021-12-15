@@ -1,0 +1,25 @@
+* {
+	font-family: arial;
+	font-size: 20px;
+}
+
+#out {
+	text-align: center;
+}
+
+#out select {
+	margin: 20px;
+}
+
+#out p {
+	margin: 0;
+}
+
+#out img {
+	display: inline-block;
+}
+
+#out p:first-child {
+	font-weight: bold;
+	text-transform: capitalize;
+}

@@ -1,0 +1,4 @@
+https://api.openweathermap.org/data/2.5/weather?id=ID_VILLE&units=metric&lang=fr&appid=VOTRE_CLE_API
+
+Amsterdam
+https://api.openweathermap.org/data/2.5/weather?id=2759794&units=metric&lang=fr&appid=2ba6f9f7ef12f57d58aceb159098b5f8
