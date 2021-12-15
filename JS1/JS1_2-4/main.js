@@ -2,6 +2,6 @@
 console.log("OK");
 /*
 Afficher Hello
-dans le DIV out.
+dans le body.
 */
-out.textContent = "Hello";
+document.body.textContent = "Hello";
